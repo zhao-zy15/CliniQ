@@ -1,0 +1,329 @@
+{"_id": "0", "text": "gastrointestinal hemorrhage"}
+{"_id": "1", "text": "old myocardial infarction"}
+{"_id": "2", "text": "heart failure"}
+{"_id": "3", "text": "general symptoms"}
+{"_id": "4", "text": "diabetes mellitus"}
+{"_id": "5", "text": "hemiplegia and hemiparesis"}
+{"_id": "6", "text": "essential hypertension"}
+{"_id": "7", "text": "cardiac dysrhythmias"}
+{"_id": "8", "text": "acute myocardial infarction"}
+{"_id": "9", "text": "respiratory distress syndrome in newborn"}
+{"_id": "10", "text": "disorders relating to short gestation and low birthweight"}
+{"_id": "11", "text": "chronic kidney disease (ckd)"}
+{"_id": "12", "text": "hypertensive chronic kidney disease"}
+{"_id": "13", "text": "disorders of function of stomach"}
+{"_id": "14", "text": "infections specific to the perinatal period"}
+{"_id": "15", "text": "endocrine and metabolic disturbances specific to the fetus and newborn"}
+{"_id": "16", "text": "slow fetal growth and fetal malnutrition"}
+{"_id": "17", "text": "acquired hemolytic anemias"}
+{"_id": "18", "text": "symptoms involving cardiovascular system"}
+{"_id": "19", "text": "chronic airway obstruction"}
+{"_id": "20", "text": "duodenal ulcer"}
+{"_id": "21", "text": "iron deficiency anemias"}
+{"_id": "22", "text": "acute renal failure"}
+{"_id": "23", "text": "epilepsy and recurrent seizures"}
+{"_id": "24", "text": "acute appendicitis"}
+{"_id": "25", "text": "cardiomyopathy"}
+{"_id": "26", "text": "occlusion and stenosis of precerebral arteries"}
+{"_id": "27", "text": "diseases of esophagus"}
+{"_id": "28", "text": "pneumonia"}
+{"_id": "29", "text": "curvature of spine"}
+{"_id": "30", "text": "chronic bronchitis"}
+{"_id": "31", "text": "regional enteritis"}
+{"_id": "32", "text": "late effects of acute poliomyelitis"}
+{"_id": "33", "text": "occlusion of cerebral arteries"}
+{"_id": "34", "text": "intracerebral hemorrhage"}
+{"_id": "35", "text": "acquired hypothyroidism"}
+{"_id": "36", "text": "hemorrhoids"}
+{"_id": "37", "text": "disorders of lipoid metabolism"}
+{"_id": "38", "text": "diverticula of intestine"}
+{"_id": "39", "text": "visual disturbances"}
+{"_id": "40", "text": "fracture of carpal bone(s)"}
+{"_id": "41", "text": "portal vein thrombosis"}
+{"_id": "42", "text": "symptoms involving head and neck"}
+{"_id": "43", "text": "symptoms involving digestive system"}
+{"_id": "44", "text": "chronic liver disease and cirrhosis"}
+{"_id": "45", "text": "contusion of trunk"}
+{"_id": "46", "text": "septicemia"}
+{"_id": "47", "text": "disorders of fluid, electrolyte, and acid-base balance"}
+{"_id": "48", "text": "pneumonitis due to solids and liquids"}
+{"_id": "49", "text": "anxiety, dissociative and somatoform disorders"}
+{"_id": "50", "text": "conduction disorders"}
+{"_id": "51", "text": "nonspecific findings on examination of blood"}
+{"_id": "52", "text": "empyema"}
+{"_id": "53", "text": "fracture of vertebral column without mention of spinal cord injury"}
+{"_id": "54", "text": "aortic aneurysm and dissection"}
+{"_id": "55", "text": "phlebitis and thrombophlebitis of intracranial venous sinuses"}
+{"_id": "56", "text": "sarcoidosis"}
+{"_id": "57", "text": "depressive disorder"}
+{"_id": "58", "text": "angina pectoris"}
+{"_id": "59", "text": "nutritional marasmus"}
+{"_id": "60", "text": "poisoning by anticonvulsants and anti-parkinsonism drugs"}
+{"_id": "61", "text": "organic sleep disorders"}
+{"_id": "62", "text": "pneumothorax"}
+{"_id": "63", "text": "inflammatory and toxic neuropathy"}
+{"_id": "64", "text": "diseases of mitral and aortic valves"}
+{"_id": "65", "text": "disorders involving the immune mechanism"}
+{"_id": "66", "text": "chronic sinusitis"}
+{"_id": "67", "text": "gout"}
+{"_id": "68", "text": "viral hepatitis"}
+{"_id": "69", "text": "disorders of mineral metabolism"}
+{"_id": "70", "text": "symptoms concerning nutrition, metabolism, and development"}
+{"_id": "71", "text": "acute pulmonary heart disease"}
+{"_id": "72", "text": "hypotension"}
+{"_id": "73", "text": "fracture of face bones"}
+{"_id": "74", "text": "coagulation defects"}
+{"_id": "75", "text": "diseases of hard tissues of teeth"}
+{"_id": "76", "text": "injury to kidney"}
+{"_id": "77", "text": "nondependent abuse of drugs"}
+{"_id": "78", "text": "candidiasis"}
+{"_id": "79", "text": "contusion of face, scalp, and neck except eye(s)"}
+{"_id": "80", "text": "subarachnoid hemorrhage"}
+{"_id": "81", "text": "cholelithiasis"}
+{"_id": "82", "text": "noninfectious disorders of lymphatic channels"}
+{"_id": "83", "text": "human immunodeficiency virus [hiv] disease"}
+{"_id": "84", "text": "multiple sclerosis"}
+{"_id": "85", "text": "calculus of kidney and ureter"}
+{"_id": "86", "text": "fracture of base of skull"}
+{"_id": "87", "text": "subarachnoid, subdural, and extradural hemorrhage, following injury"}
+{"_id": "88", "text": "atherosclerosis"}
+{"_id": "89", "text": "asthma"}
+{"_id": "90", "text": "secondary malignant neoplasm of respiratory and digestive systems"}
+{"_id": "91", "text": "hematological disorders of newborn"}
+{"_id": "92", "text": "noninflammatory disorders of ovary, fallopian tube, and broad ligament"}
+{"_id": "93", "text": "diffuse diseases of connective tissue"}
+{"_id": "94", "text": "chronic pulmonary heart disease"}
+{"_id": "95", "text": "intervertebral disc disorders"}
+{"_id": "96", "text": "episodic mood disorders"}
+{"_id": "97", "text": "liver abscess and sequelae of chronic liver disease"}
+{"_id": "98", "text": "drug dependence"}
+{"_id": "99", "text": "alcohol dependence syndrome"}
+{"_id": "100", "text": "malignant neoplasm of liver and intrahepatic bile ducts"}
+{"_id": "101", "text": "hyperplasia of prostate"}
+{"_id": "102", "text": "diseases of pancreas"}
+{"_id": "103", "text": "malignant neoplasm of female breast"}
+{"_id": "104", "text": "open wound of ocular adnexa"}
+{"_id": "105", "text": "open wound of eyeball"}
+{"_id": "106", "text": "osteoarthrosis and allied disorders"}
+{"_id": "107", "text": "fracture of tibia and fibula"}
+{"_id": "108", "text": "fracture of pelvis"}
+{"_id": "109", "text": "fracture of one or more tarsal and metatarsal bones"}
+{"_id": "110", "text": "fistula involving female genital tract"}
+{"_id": "111", "text": "fracture of ankle"}
+{"_id": "112", "text": "fracture of scapula"}
+{"_id": "113", "text": "pleurisy"}
+{"_id": "114", "text": "fetal and neonatal hemorrhage"}
+{"_id": "115", "text": "malignant neoplasm of gallbladder and extrahepatic bile ducts"}
+{"_id": "116", "text": "phlebitis and thrombophlebitis"}
+{"_id": "117", "text": "poisoning by analgesics, antipyretics, and antirheumatics"}
+{"_id": "118", "text": "fracture of vault of skull"}
+{"_id": "119", "text": "ill-defined descriptions and complications of heart disease"}
+{"_id": "120", "text": "hereditary and idiopathic peripheral neuropathy"}
+{"_id": "121", "text": "poisoning by psychotropic agents"}
+{"_id": "122", "text": "hypertensive heart disease"}
+{"_id": "123", "text": "gastritis and duodenitis"}
+{"_id": "124", "text": "peritonitis and retroperitoneal infections"}
+{"_id": "125", "text": "vascular insufficiency of intestine"}
+{"_id": "126", "text": "poisoning by sedatives and hypnotics"}
+{"_id": "127", "text": "intestinal obstruction without mention of hernia"}
+{"_id": "128", "text": "parkinson's disease"}
+{"_id": "129", "text": "injury to liver"}
+{"_id": "130", "text": "traumatic pneumothorax and hemothorax"}
+{"_id": "131", "text": "fracture of rib(s), sternum, larynx, and trachea"}
+{"_id": "132", "text": "malignant neoplasm of pancreas"}
+{"_id": "133", "text": "hereditary hemolytic anemias"}
+{"_id": "134", "text": "intrauterine hypoxia and birth asphyxia"}
+{"_id": "135", "text": "glaucoma"}
+{"_id": "136", "text": "fetus or newborn affected by maternal conditions which may be unrelated to present pregnancy"}
+{"_id": "137", "text": "acute and subacute endocarditis"}
+{"_id": "138", "text": "migraine"}
+{"_id": "139", "text": "acute and subacute necrosis of liver"}
+{"_id": "140", "text": "chronic ulcer of skin"}
+{"_id": "141", "text": "diseases of white blood cells"}
+{"_id": "142", "text": "herpes zoster"}
+{"_id": "143", "text": "injury to spleen"}
+{"_id": "144", "text": "malignant neoplasm of colon"}
+{"_id": "145", "text": "fracture of radius and ulna"}
+{"_id": "146", "text": "crushing injury of upper limb"}
+{"_id": "147", "text": "fracture of metacarpal bone(s)"}
+{"_id": "148", "text": "open wound of elbow, forearm, and wrist"}
+{"_id": "149", "text": "disorders relating to long gestation and high birthweight"}
+{"_id": "150", "text": "alcohol-induced mental disorders"}
+{"_id": "151", "text": "intracranial and intraspinal abscess"}
+{"_id": "152", "text": "malignant neoplasm of prostate"}
+{"_id": "153", "text": "ulcerative colitis"}
+{"_id": "154", "text": "late effects of cerebrovascular disease"}
+{"_id": "155", "text": "malignant neoplasm of trachea, bronchus, and lung"}
+{"_id": "156", "text": "injury to blood vessels of upper extremity"}
+{"_id": "157", "text": "symptoms involving urinary system"}
+{"_id": "158", "text": "bronchitis"}
+{"_id": "159", "text": "endometriosis"}
+{"_id": "160", "text": "intestinal malabsorption"}
+{"_id": "161", "text": "hemolytic disease of fetus or newborn, due to isoimmunization"}
+{"_id": "162", "text": "postinflammatory pulmonary fibrosis"}
+{"_id": "163", "text": "traumatic amputation of arm and hand (complete) (partial)"}
+{"_id": "164", "text": "certain early complications of trauma"}
+{"_id": "165", "text": "disorders of muscle, ligament, and fascia"}
+{"_id": "166", "text": "bulbus cordis anomalies and anomalies of cardiac septal closure"}
+{"_id": "167", "text": "blindness and low vision"}
+{"_id": "168", "text": "polymyalgia rheumatica"}
+{"_id": "169", "text": "effects of reduced temperature"}
+{"_id": "170", "text": "arterial embolism and thrombosis"}
+{"_id": "171", "text": "schizophrenic disorders"}
+{"_id": "172", "text": "injury to heart and lung"}
+{"_id": "173", "text": "hydronephrosis"}
+{"_id": "174", "text": "polyarteritis nodosa and allied conditions"}
+{"_id": "175", "text": "pulmonary congestion and hypostasis"}
+{"_id": "176", "text": "disorders of adrenal glands"}
+{"_id": "177", "text": "pneumococcal pneumonia"}
+{"_id": "178", "text": "testicular dysfunction"}
+{"_id": "179", "text": "disorders of parathyroid gland"}
+{"_id": "180", "text": "disorders of the pituitary gland and its hypothalamic control"}
+{"_id": "181", "text": "deficiency of b-complex components"}
+{"_id": "182", "text": "disorders of external ear"}
+{"_id": "183", "text": "psoriasis and similar disorders"}
+{"_id": "184", "text": "fracture of neck of femur"}
+{"_id": "185", "text": "vitamin d deficiency"}
+{"_id": "186", "text": "asbestosis"}
+{"_id": "187", "text": "dementias"}
+{"_id": "188", "text": "disorders of plasma protein metabolism"}
+{"_id": "189", "text": "drug-induced mental disorders"}
+{"_id": "190", "text": "adjustment reaction"}
+{"_id": "191", "text": "dermatitis due to substances taken internally"}
+{"_id": "192", "text": "late effects of injuries to the nervous system"}
+{"_id": "193", "text": "bacterial meningitis"}
+{"_id": "194", "text": "peripheral enthesopathies and allied syndromes"}
+{"_id": "195", "text": "pneumoconiosis"}
+{"_id": "196", "text": "malignant neoplasm of brain"}
+{"_id": "197", "text": "herpes simplex"}
+{"_id": "198", "text": "injury to pelvic organs"}
+{"_id": "199", "text": "spondylosis and allied disorders"}
+{"_id": "200", "text": "injury to gastrointestinal tract"}
+{"_id": "201", "text": "transient cerebral ischemia"}
+{"_id": "202", "text": "disorders of conjunctiva"}
+{"_id": "203", "text": "ill-defined intestinal infections"}
+{"_id": "204", "text": "bronchiectasis"}
+{"_id": "205", "text": "gastric ulcer"}
+{"_id": "206", "text": "fracture of humerus"}
+{"_id": "207", "text": "disorders resulting from impaired renal function"}
+{"_id": "208", "text": "open wound of hip and thigh"}
+{"_id": "209", "text": "open wound of hand except finger(s) alone"}
+{"_id": "210", "text": "mild intellectual disabilities"}
+{"_id": "211", "text": "malignant neoplasm of bladder"}
+{"_id": "212", "text": "congenital anomalies of urinary system"}
+{"_id": "213", "text": "lipoma"}
+{"_id": "214", "text": "malignant neoplasm of stomach"}
+{"_id": "215", "text": "menopausal and postmenopausal disorders"}
+{"_id": "216", "text": "bullous dermatoses"}
+{"_id": "217", "text": "injury to optic nerve and pathways"}
+{"_id": "218", "text": "diseases of pulp and periapical tissues"}
+{"_id": "219", "text": "injury to blood vessels of abdomen and pelvis"}
+{"_id": "220", "text": "myeloid leukemia"}
+{"_id": "221", "text": "malignant neoplasm of rectum, rectosigmoid junction, and anus"}
+{"_id": "222", "text": "disorders of penis"}
+{"_id": "223", "text": "flat foot"}
+{"_id": "224", "text": "fetus or newborn affected by complications of placenta, cord, and membranes"}
+{"_id": "225", "text": "nonspecific findings on examination of urine"}
+{"_id": "226", "text": "lymphoid leukemia"}
+{"_id": "227", "text": "conditions involving the integument and temperature regulation of fetus and newborn"}
+{"_id": "228", "text": "allergic rhinitis"}
+{"_id": "229", "text": "atheroembolism"}
+{"_id": "230", "text": "opportunistic mycoses"}
+{"_id": "231", "text": "infections of kidney"}
+{"_id": "232", "text": "spinocerebellar disease"}
+{"_id": "233", "text": "nontoxic nodular goiter"}
+{"_id": "234", "text": "poisoning by drugs primarily affecting the autonomic nervous system"}
+{"_id": "235", "text": "symptoms involving nervous and musculoskeletal systems"}
+{"_id": "236", "text": "emphysema"}
+{"_id": "237", "text": "dislocation of knee"}
+{"_id": "238", "text": "nonspecific abnormal results of function studies"}
+{"_id": "239", "text": "mononeuritis of lower limb"}
+{"_id": "240", "text": "hypertension complicating pregnancy, childbirth, and the puerperium"}
+{"_id": "241", "text": "hemangioma and lymphangioma, any site"}
+{"_id": "242", "text": "chronic glomerulonephritis"}
+{"_id": "243", "text": "foreign body in pharynx and larynx"}
+{"_id": "244", "text": "anterior horn cell disease"}
+{"_id": "245", "text": "urethritis, not sexually transmitted, and urethral syndrome"}
+{"_id": "246", "text": "malignant neoplasm"}
+{"_id": "247", "text": "acute pericarditis"}
+{"_id": "248", "text": "dislocation of shoulder"}
+{"_id": "249", "text": "cerebral laceration and contusion"}
+{"_id": "250", "text": "cataract"}
+{"_id": "251", "text": "orchitis and epididymitis"}
+{"_id": "252", "text": "disorders of optic nerve and visual pathways"}
+{"_id": "253", "text": "open wound of ear"}
+{"_id": "254", "text": "birth trauma"}
+{"_id": "255", "text": "trigeminal nerve disorders"}
+{"_id": "256", "text": "malignant neoplasm of esophagus"}
+{"_id": "257", "text": "inguinal hernia"}
+{"_id": "258", "text": "acute laryngitis and tracheitis"}
+{"_id": "259", "text": "congenital anomalies of respiratory system"}
+{"_id": "260", "text": "foreign body in trachea, bronchus, and lung"}
+{"_id": "261", "text": "malignant neoplasm of hypopharynx"}
+{"_id": "262", "text": "disorders of the autonomic nervous system"}
+{"_id": "263", "text": "delusional disorders"}
+{"_id": "264", "text": "fracture of one or more phalanges of hand"}
+{"_id": "265", "text": "myoneural disorders"}
+{"_id": "266", "text": "dislocation of elbow"}
+{"_id": "267", "text": "facial nerve disorders"}
+{"_id": "268", "text": "malignant neoplasm of thyroid gland"}
+{"_id": "269", "text": "dentofacial anomalies, including malocclusion"}
+{"_id": "270", "text": "disorders of carbohydrate transport and metabolism"}
+{"_id": "271", "text": "traumatic amputation of thumb (complete) (partial)"}
+{"_id": "272", "text": "personality disorders"}
+{"_id": "273", "text": "severe protein-calorie malnutrition"}
+{"_id": "274", "text": "injury to blood vessels of thorax"}
+{"_id": "275", "text": "diseases of the salivary glands"}
+{"_id": "276", "text": "fracture of vertebral column with spinal cord injury"}
+{"_id": "277", "text": "open wound of knee, leg [except thigh], and ankle"}
+{"_id": "278", "text": "hodgkin's disease"}
+{"_id": "279", "text": "congenital anomalies of the integument"}
+{"_id": "280", "text": "inflammation of eyelids"}
+{"_id": "281", "text": "malignant neoplasm of small intestine, including duodenum"}
+{"_id": "282", "text": "physiological malfunction arising from mental factors"}
+{"_id": "283", "text": "nephrotic syndrome"}
+{"_id": "284", "text": "antepartum hemorrhage, abruptio placentae, and placenta previa"}
+{"_id": "285", "text": "gingival and periodontal diseases"}
+{"_id": "286", "text": "nasal polyps"}
+{"_id": "287", "text": "thyroiditis"}
+{"_id": "288", "text": "thyrotoxicosis with or without goiter"}
+{"_id": "289", "text": "hypertensive heart and chronic kidney disease"}
+{"_id": "290", "text": "chromosomal anomalies"}
+{"_id": "291", "text": "fracture of clavicle"}
+{"_id": "292", "text": "postpartum hemorrhage"}
+{"_id": "293", "text": "gastrojejunal ulcer"}
+{"_id": "294", "text": "fracture of one or more phalanges of foot"}
+{"_id": "295", "text": "diseases of nail"}
+{"_id": "296", "text": "erythematous conditions"}
+{"_id": "297", "text": "inflammatory diseases of uterus, except cervix"}
+{"_id": "298", "text": "major puerperal infection"}
+{"_id": "299", "text": "uterine leiomyoma"}
+{"_id": "300", "text": "inflammatory diseases of prostate"}
+{"_id": "301", "text": "acute bronchitis and bronchiolitis"}
+{"_id": "302", "text": "poisoning by agents primarily affecting the cardiovascular system"}
+{"_id": "303", "text": "malignant neoplasm of thymus, heart, and mediastinum"}
+{"_id": "304", "text": "fetus or newborn affected by maternal complications of pregnancy"}
+{"_id": "305", "text": "encephalitis, myelitis, and encephalomyelitis"}
+{"_id": "306", "text": "contusion of eye and adnexa"}
+{"_id": "307", "text": "dermatophytosis"}
+{"_id": "308", "text": "foreign body in mouth, esophagus, and stomach"}
+{"_id": "309", "text": "diseases of the oral soft tissues"}
+{"_id": "310", "text": "hyperkinetic syndrome of childhood"}
+{"_id": "311", "text": "acute, but ill-defined, cerebrovascular disease"}
+{"_id": "312", "text": "toxic effect of alcohol"}
+{"_id": "313", "text": "thiamine and niacin deficiency states"}
+{"_id": "314", "text": "urethral stricture"}
+{"_id": "315", "text": "abnormality of organs and soft tissues of pelvis"}
+{"_id": "316", "text": "malignant neoplasm of cervix uteri"}
+{"_id": "317", "text": "spinal cord injury without evidence of spinal bone injury"}
+{"_id": "318", "text": "early or threatened labor"}
+{"_id": "319", "text": "hearing loss"}
+{"_id": "320", "text": "multiple myeloma and immunoproliferative neoplasms"}
+{"_id": "321", "text": "poisoning by central nervous system stimulants"}
+{"_id": "322", "text": "whooping cough"}
+{"_id": "323", "text": "retinal detachments and defects"}
+{"_id": "324", "text": "intellectual disabilities"}
+{"_id": "325", "text": "neoplasm of uncertain behavior of endocrine glands and nervous system"}
+{"_id": "326", "text": "cataplexy and narcolepsy"}
+{"_id": "327", "text": "contusion of upper limb"}
+{"_id": "328", "text": "sprains and strains of wrist and hand"}

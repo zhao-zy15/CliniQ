@@ -1,0 +1,552 @@
+{"_id": "694", "text": "phytonadione"}
+{"_id": "695", "text": "phenytoin"}
+{"_id": "696", "text": "folic acid"}
+{"_id": "697", "text": "pantoprazole"}
+{"_id": "698", "text": "sucralfate"}
+{"_id": "699", "text": "nadolol"}
+{"_id": "700", "text": "atorvastatin"}
+{"_id": "701", "text": "heparin"}
+{"_id": "702", "text": "metoprolol"}
+{"_id": "703", "text": "multivitamin"}
+{"_id": "704", "text": "ciprofloxacin"}
+{"_id": "705", "text": "hydromorphone"}
+{"_id": "706", "text": "insulin"}
+{"_id": "707", "text": "ceftriaxone"}
+{"_id": "708", "text": "albuterol"}
+{"_id": "709", "text": "amlodipine"}
+{"_id": "710", "text": "valproic acid"}
+{"_id": "711", "text": "fluticasone propionate"}
+{"_id": "712", "text": "tiotropium"}
+{"_id": "713", "text": "allopurinol"}
+{"_id": "714", "text": "ferrous sulfate"}
+{"_id": "715", "text": "simvastatin"}
+{"_id": "716", "text": "acetaminophen"}
+{"_id": "717", "text": "calcitriol"}
+{"_id": "718", "text": "gentamicin"}
+{"_id": "719", "text": "aspirin"}
+{"_id": "720", "text": "sertraline"}
+{"_id": "721", "text": "calcium acetate"}
+{"_id": "722", "text": "ascorbic acid"}
+{"_id": "723", "text": "furosemide"}
+{"_id": "724", "text": "metronidazole"}
+{"_id": "725", "text": "ondansetron"}
+{"_id": "726", "text": "haloperidol"}
+{"_id": "727", "text": "sodium chloride"}
+{"_id": "728", "text": "mexiletine"}
+{"_id": "729", "text": "potassium chloride"}
+{"_id": "730", "text": "montelukast"}
+{"_id": "731", "text": "hydralazine"}
+{"_id": "732", "text": "paroxetine"}
+{"_id": "733", "text": "levofloxacin"}
+{"_id": "734", "text": "oxycodone-acetaminophen"}
+{"_id": "735", "text": "docusate"}
+{"_id": "736", "text": "fentanyl"}
+{"_id": "737", "text": "hepatitis b vaccine"}
+{"_id": "738", "text": "cefazolin"}
+{"_id": "739", "text": "diphenhydramine"}
+{"_id": "740", "text": "loperamide"}
+{"_id": "741", "text": "lorazepam"}
+{"_id": "742", "text": "fat emulsion"}
+{"_id": "743", "text": "phenobarbital"}
+{"_id": "744", "text": "dexamethasone"}
+{"_id": "745", "text": "levetiracetam"}
+{"_id": "746", "text": "lisinopril"}
+{"_id": "747", "text": "nystatin"}
+{"_id": "748", "text": "ipratropium bromide"}
+{"_id": "749", "text": "metoclopramide"}
+{"_id": "750", "text": "warfarin"}
+{"_id": "751", "text": "enalapril"}
+{"_id": "752", "text": "hydrochlorothiazide"}
+{"_id": "753", "text": "senna"}
+{"_id": "754", "text": "dopamine"}
+{"_id": "755", "text": "piperacillin-tazobactam"}
+{"_id": "756", "text": "diazepam"}
+{"_id": "757", "text": "sodium bicarbonate"}
+{"_id": "758", "text": "carvedilol"}
+{"_id": "759", "text": "amiodarone"}
+{"_id": "760", "text": "nitroprusside"}
+{"_id": "761", "text": "clopidogrel"}
+{"_id": "762", "text": "vancomycin"}
+{"_id": "763", "text": "atenolol"}
+{"_id": "764", "text": "docusate sodium"}
+{"_id": "765", "text": "valsartan"}
+{"_id": "766", "text": "oxybutynin"}
+{"_id": "767", "text": "isosorbide mononitrate"}
+{"_id": "768", "text": "cefepime"}
+{"_id": "769", "text": "captopril"}
+{"_id": "770", "text": "mannitol"}
+{"_id": "771", "text": "ampicillin"}
+{"_id": "772", "text": "prednisone"}
+{"_id": "773", "text": "tacrolimus"}
+{"_id": "774", "text": "valganciclovir"}
+{"_id": "775", "text": "fluoxetine"}
+{"_id": "776", "text": "aripiprazole"}
+{"_id": "777", "text": "levothyroxine"}
+{"_id": "778", "text": "tirofiban"}
+{"_id": "779", "text": "nitroglycerin"}
+{"_id": "780", "text": "glucagon"}
+{"_id": "781", "text": "methadone"}
+{"_id": "782", "text": "ramipril"}
+{"_id": "783", "text": "spironolactone"}
+{"_id": "784", "text": "rosuvastatin"}
+{"_id": "785", "text": "glucose"}
+{"_id": "786", "text": "methylprednisolone"}
+{"_id": "787", "text": "azithromycin"}
+{"_id": "788", "text": "niacin"}
+{"_id": "789", "text": "milk of magnesia"}
+{"_id": "790", "text": "magnesium sulfate"}
+{"_id": "791", "text": "calcium carbonate"}
+{"_id": "792", "text": "ampicillin-sulbactam"}
+{"_id": "793", "text": "vasopressin"}
+{"_id": "794", "text": "phenylephrine"}
+{"_id": "795", "text": "norepinephrine"}
+{"_id": "796", "text": "alprazolam"}
+{"_id": "797", "text": "voriconazole"}
+{"_id": "798", "text": "hydrocortisone"}
+{"_id": "799", "text": "sirolimus"}
+{"_id": "800", "text": "diltiazem"}
+{"_id": "801", "text": "ipratropium"}
+{"_id": "802", "text": "famotidine"}
+{"_id": "803", "text": "albumin"}
+{"_id": "804", "text": "calcium gluconate"}
+{"_id": "805", "text": "cepacol"}
+{"_id": "806", "text": "salmeterol"}
+{"_id": "807", "text": "mirtazapine"}
+{"_id": "808", "text": "polyethylene glycol"}
+{"_id": "809", "text": "valproate"}
+{"_id": "810", "text": "clonazepam"}
+{"_id": "811", "text": "amitriptyline"}
+{"_id": "812", "text": "olanzapine"}
+{"_id": "813", "text": "omeprazole"}
+{"_id": "814", "text": "midodrine"}
+{"_id": "815", "text": "morphine"}
+{"_id": "816", "text": "ranitidine"}
+{"_id": "817", "text": "ursodiol"}
+{"_id": "818", "text": "eptifibatide"}
+{"_id": "819", "text": "bisacodyl"}
+{"_id": "820", "text": "xopenex"}
+{"_id": "821", "text": "ibuprofen"}
+{"_id": "822", "text": "propofol"}
+{"_id": "823", "text": "vitamin d"}
+{"_id": "824", "text": "acetylcysteine"}
+{"_id": "825", "text": "nephrocaps"}
+{"_id": "826", "text": "oxycodone"}
+{"_id": "827", "text": "zolpidem"}
+{"_id": "828", "text": "cephalexin"}
+{"_id": "829", "text": "filgrastim"}
+{"_id": "830", "text": "cyanocobalamin"}
+{"_id": "831", "text": "desmopressin"}
+{"_id": "832", "text": "indomethacin"}
+{"_id": "833", "text": "thiamine"}
+{"_id": "834", "text": "quinapril"}
+{"_id": "835", "text": "labetalol"}
+{"_id": "836", "text": "dorzolamide"}
+{"_id": "837", "text": "bacitracin"}
+{"_id": "838", "text": "brimonidine"}
+{"_id": "839", "text": "aminocaproic acid"}
+{"_id": "840", "text": "gemfibrozil"}
+{"_id": "841", "text": "doxycycline"}
+{"_id": "842", "text": "enoxaparin"}
+{"_id": "843", "text": "nifedipine"}
+{"_id": "844", "text": "mirapex"}
+{"_id": "845", "text": "linezolid"}
+{"_id": "846", "text": "carbidopa-levodopa"}
+{"_id": "847", "text": "flecainide"}
+{"_id": "848", "text": "lidocaine"}
+{"_id": "849", "text": "calcitonin"}
+{"_id": "850", "text": "aluminum hydroxide"}
+{"_id": "851", "text": "citalopram"}
+{"_id": "852", "text": "artificial tears"}
+{"_id": "853", "text": "lansoprazole"}
+{"_id": "854", "text": "imatinib"}
+{"_id": "855", "text": "miconazole"}
+{"_id": "856", "text": "nimodipine"}
+{"_id": "857", "text": "epinephrine"}
+{"_id": "858", "text": "pancrelipase"}
+{"_id": "859", "text": "ibutilide"}
+{"_id": "860", "text": "meperidine"}
+{"_id": "861", "text": "clindamycin"}
+{"_id": "862", "text": "epoprostenol"}
+{"_id": "863", "text": "digoxin"}
+{"_id": "864", "text": "fluconazole"}
+{"_id": "865", "text": "atropine"}
+{"_id": "866", "text": "midazolam"}
+{"_id": "867", "text": "mupirocin"}
+{"_id": "868", "text": "calcipotriene"}
+{"_id": "869", "text": "clobetasol propionate"}
+{"_id": "870", "text": "lactic acid"}
+{"_id": "871", "text": "donepezil"}
+{"_id": "872", "text": "colchicine"}
+{"_id": "873", "text": "quinidine"}
+{"_id": "874", "text": "testosterone"}
+{"_id": "875", "text": "naloxone"}
+{"_id": "876", "text": "revlimid"}
+{"_id": "877", "text": "gabapentin"}
+{"_id": "878", "text": "timolol"}
+{"_id": "879", "text": "terazosin"}
+{"_id": "880", "text": "phenazopyridine"}
+{"_id": "881", "text": "fexofenadine"}
+{"_id": "882", "text": "estrogens"}
+{"_id": "883", "text": "ritonavir"}
+{"_id": "884", "text": "tramadol"}
+{"_id": "885", "text": "epoetin alfa"}
+{"_id": "886", "text": "ferric gluconate"}
+{"_id": "887", "text": "penicillin"}
+{"_id": "888", "text": "temazepam"}
+{"_id": "889", "text": "magnesium oxide"}
+{"_id": "890", "text": "ertapenem"}
+{"_id": "891", "text": "triamcinolone acetonide"}
+{"_id": "892", "text": "tamsulosin"}
+{"_id": "893", "text": "pletal"}
+{"_id": "894", "text": "baclofen"}
+{"_id": "895", "text": "pediatric vitamins"}
+{"_id": "896", "text": "meropenem"}
+{"_id": "897", "text": "losartan"}
+{"_id": "898", "text": "cyclobenzaprine"}
+{"_id": "899", "text": "glipizide"}
+{"_id": "900", "text": "sarna"}
+{"_id": "901", "text": "itraconazole"}
+{"_id": "902", "text": "daptomycin"}
+{"_id": "903", "text": "golytely"}
+{"_id": "904", "text": "infliximab"}
+{"_id": "905", "text": "azathioprine"}
+{"_id": "906", "text": "fluticasone-salmeterol"}
+{"_id": "907", "text": "sildenafil"}
+{"_id": "908", "text": "sevelamer"}
+{"_id": "909", "text": "nicotine"}
+{"_id": "910", "text": "tizanidine"}
+{"_id": "911", "text": "trazodone"}
+{"_id": "912", "text": "pravastatin"}
+{"_id": "913", "text": "psyllium"}
+{"_id": "914", "text": "quetiapine"}
+{"_id": "915", "text": "isoniazid"}
+{"_id": "916", "text": "acyclovir"}
+{"_id": "917", "text": "pentamidine"}
+{"_id": "918", "text": "prochlorperazine"}
+{"_id": "919", "text": "cyclosporine"}
+{"_id": "920", "text": "posaconazole"}
+{"_id": "921", "text": "dobutamine"}
+{"_id": "922", "text": "primidone"}
+{"_id": "923", "text": "nortriptyline"}
+{"_id": "924", "text": "cytarabine"}
+{"_id": "925", "text": "lopinavir-ritonavir"}
+{"_id": "926", "text": "abacavir"}
+{"_id": "927", "text": "tenofovir disoproxil"}
+{"_id": "928", "text": "lithium carbonate"}
+{"_id": "929", "text": "ceftazidime"}
+{"_id": "930", "text": "pyrimethamine"}
+{"_id": "931", "text": "leucovorin"}
+{"_id": "932", "text": "sulfadiazine"}
+{"_id": "933", "text": "atazanavir"}
+{"_id": "934", "text": "emtricitabine-tenofovir"}
+{"_id": "935", "text": "alendronate"}
+{"_id": "936", "text": "potassium phosphate"}
+{"_id": "937", "text": "lamotrigine"}
+{"_id": "938", "text": "lactulose"}
+{"_id": "939", "text": "rifaximin"}
+{"_id": "940", "text": "dexmedetomidine"}
+{"_id": "941", "text": "torsemide"}
+{"_id": "942", "text": "verapamil"}
+{"_id": "943", "text": "enalaprilat"}
+{"_id": "944", "text": "scopolamine"}
+{"_id": "945", "text": "carbamazepine"}
+{"_id": "946", "text": "rivastigmine"}
+{"_id": "947", "text": "doxazosin"}
+{"_id": "948", "text": "comtan"}
+{"_id": "949", "text": "bupropion"}
+{"_id": "950", "text": "caspofungin"}
+{"_id": "951", "text": "lyrica"}
+{"_id": "952", "text": "duloxetine"}
+{"_id": "953", "text": "propoxyphene"}
+{"_id": "954", "text": "cinacalcet"}
+{"_id": "955", "text": "nitrofurantoin"}
+{"_id": "956", "text": "oxcarbazepine"}
+{"_id": "957", "text": "glucovance"}
+{"_id": "958", "text": "rosiglitazone"}
+{"_id": "959", "text": "glyburide"}
+{"_id": "960", "text": "aztreonam"}
+{"_id": "961", "text": "neomycin"}
+{"_id": "962", "text": "xenaderm"}
+{"_id": "963", "text": "guaifenesin"}
+{"_id": "964", "text": "ticlopidine"}
+{"_id": "965", "text": "fish oil"}
+{"_id": "966", "text": "venlafaxine"}
+{"_id": "967", "text": "ambisome"}
+{"_id": "968", "text": "clonidine"}
+{"_id": "969", "text": "ethacrynate"}
+{"_id": "970", "text": "neutra-phos"}
+{"_id": "971", "text": "ketorolac"}
+{"_id": "972", "text": "pulmicort"}
+{"_id": "973", "text": "augmentin"}
+{"_id": "974", "text": "cefpodoxime"}
+{"_id": "975", "text": "mycophenolate"}
+{"_id": "976", "text": "risperidone"}
+{"_id": "977", "text": "oxazepam"}
+{"_id": "978", "text": "fludrocortisone"}
+{"_id": "979", "text": "idarubicin"}
+{"_id": "980", "text": "methylergonovine"}
+{"_id": "981", "text": "lacri-lube"}
+{"_id": "982", "text": "megestrol"}
+{"_id": "983", "text": "metformin"}
+{"_id": "984", "text": "fomepizole"}
+{"_id": "985", "text": "codeine"}
+{"_id": "986", "text": "isosorbide dinitrate"}
+{"_id": "987", "text": "methylphenidate"}
+{"_id": "988", "text": "amoxicillin"}
+{"_id": "989", "text": "alteplase"}
+{"_id": "990", "text": "dabigatran"}
+{"_id": "991", "text": "desipramine"}
+{"_id": "992", "text": "ribavirin"}
+{"_id": "993", "text": "efavirenz"}
+{"_id": "994", "text": "lamivudine"}
+{"_id": "995", "text": "escitalopram"}
+{"_id": "996", "text": "erythromycin"}
+{"_id": "997", "text": "ziprasidone"}
+{"_id": "998", "text": "phosphorus"}
+{"_id": "999", "text": "anagrelide"}
+{"_id": "1000", "text": "fosphenytoin"}
+{"_id": "1001", "text": "octreotide"}
+{"_id": "1002", "text": "caffeine citrate"}
+{"_id": "1003", "text": "beractant"}
+{"_id": "1004", "text": "racepinephrine"}
+{"_id": "1005", "text": "tretinoin"}
+{"_id": "1006", "text": "femhrt"}
+{"_id": "1007", "text": "buspirone"}
+{"_id": "1008", "text": "nesiritide"}
+{"_id": "1009", "text": "sumatriptan"}
+{"_id": "1010", "text": "cisatracurium"}
+{"_id": "1011", "text": "silver nitrate"}
+{"_id": "1012", "text": "albuterol sulfate"}
+{"_id": "1013", "text": "miconazole nitrate"}
+{"_id": "1014", "text": "valacyclovir"}
+{"_id": "1015", "text": "fenofibrate"}
+{"_id": "1016", "text": "benazepril"}
+{"_id": "1017", "text": "tricor"}
+{"_id": "1018", "text": "protamine sulfate"}
+{"_id": "1019", "text": "neostigmine"}
+{"_id": "1020", "text": "pioglitazone"}
+{"_id": "1021", "text": "nicardipine"}
+{"_id": "1022", "text": "actonel"}
+{"_id": "1023", "text": "mesalamine"}
+{"_id": "1024", "text": "argatroban"}
+{"_id": "1025", "text": "propranolol"}
+{"_id": "1026", "text": "vitamin e"}
+{"_id": "1027", "text": "terlipressin"}
+{"_id": "1028", "text": "sodium polystyrene sulfonate"}
+{"_id": "1029", "text": "terbinafine"}
+{"_id": "1030", "text": "chlorhexidine gluconate"}
+{"_id": "1031", "text": "meclizine"}
+{"_id": "1032", "text": "disopyramide"}
+{"_id": "1033", "text": "dicyclomine"}
+{"_id": "1034", "text": "naproxen"}
+{"_id": "1035", "text": "cyclophosphamide"}
+{"_id": "1036", "text": "nafcillin"}
+{"_id": "1037", "text": "erlotinib"}
+{"_id": "1038", "text": "simethicone"}
+{"_id": "1039", "text": "chlorothiazide"}
+{"_id": "1040", "text": "advair"}
+{"_id": "1041", "text": "decitabine"}
+{"_id": "1042", "text": "femara"}
+{"_id": "1043", "text": "ezetimibe"}
+{"_id": "1044", "text": "topiramate"}
+{"_id": "1045", "text": "ropinirole"}
+{"_id": "1046", "text": "oseltamivir"}
+{"_id": "1047", "text": "bivalirudin"}
+{"_id": "1048", "text": "lanthanum"}
+{"_id": "1049", "text": "namenda"}
+{"_id": "1050", "text": "tolterodine"}
+{"_id": "1051", "text": "metolazone"}
+{"_id": "1052", "text": "zonisamide"}
+{"_id": "1053", "text": "dipyridamole-aspirin"}
+{"_id": "1054", "text": "bupivacaine"}
+{"_id": "1055", "text": "trandolapril"}
+{"_id": "1056", "text": "lumigan"}
+{"_id": "1057", "text": "unasyn"}
+{"_id": "1058", "text": "promethazine"}
+{"_id": "1059", "text": "latanoprost"}
+{"_id": "1060", "text": "chlorpromazine"}
+{"_id": "1061", "text": "ganciclovir"}
+{"_id": "1062", "text": "adderall"}
+{"_id": "1063", "text": "morphine sulfate"}
+{"_id": "1064", "text": "milrinone"}
+{"_id": "1065", "text": "sotalol"}
+{"_id": "1066", "text": "cholestyramine"}
+{"_id": "1067", "text": "hyoscyamine"}
+{"_id": "1068", "text": "amphotericin b"}
+{"_id": "1069", "text": "nexium"}
+{"_id": "1070", "text": "paricalcitol"}
+{"_id": "1071", "text": "ethanol"}
+{"_id": "1072", "text": "cosyntropin"}
+{"_id": "1073", "text": "piroxicam"}
+{"_id": "1074", "text": "daunorubicin"}
+{"_id": "1075", "text": "cisplatin"}
+{"_id": "1076", "text": "rituximab"}
+{"_id": "1077", "text": "etoposide"}
+{"_id": "1078", "text": "carboplatin"}
+{"_id": "1079", "text": "pregabalin"}
+{"_id": "1080", "text": "terbutaline"}
+{"_id": "1081", "text": "aminophylline"}
+{"_id": "1082", "text": "hydroxyurea"}
+{"_id": "1083", "text": "gemtuzumab ozogamicin"}
+{"_id": "1084", "text": "fluvoxamine"}
+{"_id": "1085", "text": "pyridostigmine"}
+{"_id": "1086", "text": "calcium chloride"}
+{"_id": "1087", "text": "tuberculin"}
+{"_id": "1088", "text": "zofran"}
+{"_id": "1089", "text": "tamoxifen"}
+{"_id": "1090", "text": "sulindac"}
+{"_id": "1091", "text": "charcoal"}
+{"_id": "1092", "text": "gammagard"}
+{"_id": "1093", "text": "clarithromycin"}
+{"_id": "1094", "text": "vi-daylin"}
+{"_id": "1095", "text": "tobramycin"}
+{"_id": "1096", "text": "bicitra"}
+{"_id": "1097", "text": "phenelzine"}
+{"_id": "1098", "text": "chlorpropamide"}
+{"_id": "1099", "text": "arimidex"}
+{"_id": "1100", "text": "tocopheryl"}
+{"_id": "1101", "text": "benztropine"}
+{"_id": "1102", "text": "emtricitabine"}
+{"_id": "1103", "text": "esmolol"}
+{"_id": "1104", "text": "lovastatin"}
+{"_id": "1105", "text": "tigecycline"}
+{"_id": "1106", "text": "levalbuterol"}
+{"_id": "1107", "text": "cromolyn"}
+{"_id": "1108", "text": "ferrous gluconate"}
+{"_id": "1109", "text": "opium tincture"}
+{"_id": "1110", "text": "prednisolone"}
+{"_id": "1111", "text": "oxymetazoline"}
+{"_id": "1112", "text": "dolasetron"}
+{"_id": "1113", "text": "raltegravir"}
+{"_id": "1114", "text": "beclomethasone"}
+{"_id": "1115", "text": "desitin"}
+{"_id": "1116", "text": "vitamin a"}
+{"_id": "1117", "text": "zinc sulfate"}
+{"_id": "1118", "text": "glimepiride"}
+{"_id": "1119", "text": "palivizumab"}
+{"_id": "1120", "text": "acetazolamide"}
+{"_id": "1121", "text": "lithium"}
+{"_id": "1122", "text": "finasteride"}
+{"_id": "1123", "text": "byetta"}
+{"_id": "1124", "text": "dicloxacillin"}
+{"_id": "1125", "text": "dapsone"}
+{"_id": "1126", "text": "ketamine"}
+{"_id": "1127", "text": "paclitaxel"}
+{"_id": "1128", "text": "amaryl"}
+{"_id": "1129", "text": "qvar"}
+{"_id": "1130", "text": "leuprolide"}
+{"_id": "1131", "text": "bacitracin-polymyxin"}
+{"_id": "1132", "text": "sanctura"}
+{"_id": "1133", "text": "oxacillin"}
+{"_id": "1134", "text": "doxercalciferol"}
+{"_id": "1135", "text": "aldesleukin"}
+{"_id": "1136", "text": "travatan"}
+{"_id": "1137", "text": "imipenem-cilastatin"}
+{"_id": "1138", "text": "moviprep"}
+{"_id": "1139", "text": "saquinavir"}
+{"_id": "1140", "text": "readi-cat"}
+{"_id": "1141", "text": "felodipine"}
+{"_id": "1142", "text": "prazosin"}
+{"_id": "1143", "text": "sodium citrate"}
+{"_id": "1144", "text": "chlordiazepoxide"}
+{"_id": "1145", "text": "bumetanide"}
+{"_id": "1146", "text": "valtrex"}
+{"_id": "1147", "text": "trimethoprim/sulfa"}
+{"_id": "1148", "text": "liothyronine"}
+{"_id": "1149", "text": "exelon"}
+{"_id": "1150", "text": "quinine"}
+{"_id": "1151", "text": "chlorpheniramine"}
+{"_id": "1152", "text": "rifampin"}
+{"_id": "1153", "text": "zinc"}
+{"_id": "1154", "text": "razadyne"}
+{"_id": "1155", "text": "fondaparinux"}
+{"_id": "1156", "text": "doxepin"}
+{"_id": "1157", "text": "diovan"}
+{"_id": "1158", "text": "hydroxychloroquine"}
+{"_id": "1159", "text": "loratadine"}
+{"_id": "1160", "text": "propafenone"}
+{"_id": "1161", "text": "vincristine"}
+{"_id": "1162", "text": "lithium citrate"}
+{"_id": "1163", "text": "dextroamphetamine"}
+{"_id": "1164", "text": "verelan"}
+{"_id": "1165", "text": "eplerenone"}
+{"_id": "1166", "text": "methimazole"}
+{"_id": "1167", "text": "anusol"}
+{"_id": "1168", "text": "varicella"}
+{"_id": "1169", "text": "viokase"}
+{"_id": "1170", "text": "stavudine"}
+{"_id": "1171", "text": "budesonide"}
+{"_id": "1172", "text": "hydroxyzine"}
+{"_id": "1173", "text": "floxin"}
+{"_id": "1174", "text": "oxandrolone"}
+{"_id": "1175", "text": "salagen"}
+{"_id": "1176", "text": "glycerin"}
+{"_id": "1177", "text": "dipyridamole"}
+{"_id": "1178", "text": "theophylline"}
+{"_id": "1179", "text": "influenza virus vaccine"}
+{"_id": "1180", "text": "cefadroxil"}
+{"_id": "1181", "text": "benazepril-hydrochlorothiazide"}
+{"_id": "1182", "text": "pentobarbital"}
+{"_id": "1183", "text": "menactra"}
+{"_id": "1184", "text": "evista"}
+{"_id": "1185", "text": "niaspan"}
+{"_id": "1186", "text": "patanol"}
+{"_id": "1187", "text": "cefotaxime"}
+{"_id": "1188", "text": "buprenorphine-naloxone"}
+{"_id": "1189", "text": "dextrose"}
+{"_id": "1190", "text": "indinavir"}
+{"_id": "1191", "text": "moexipril"}
+{"_id": "1192", "text": "sulfasalazine"}
+{"_id": "1193", "text": "procainamide"}
+{"_id": "1194", "text": "tucks"}
+{"_id": "1195", "text": "desonide"}
+{"_id": "1196", "text": "perphenazine"}
+{"_id": "1197", "text": "irbesartan"}
+{"_id": "1198", "text": "casodex"}
+{"_id": "1199", "text": "glucophage"}
+{"_id": "1200", "text": "pramipexole"}
+{"_id": "1201", "text": "saliva substitute"}
+{"_id": "1202", "text": "mitoxantrone"}
+{"_id": "1203", "text": "pentoxifylline"}
+{"_id": "1204", "text": "micafungin"}
+{"_id": "1205", "text": "avodart"}
+{"_id": "1206", "text": "bicalutamide"}
+{"_id": "1207", "text": "opium"}
+{"_id": "1208", "text": "clotrimazole"}
+{"_id": "1209", "text": "fluocinonide"}
+{"_id": "1210", "text": "memantine"}
+{"_id": "1211", "text": "olmesartan"}
+{"_id": "1212", "text": "methocarbamol"}
+{"_id": "1213", "text": "beclomethasone dipropionate"}
+{"_id": "1214", "text": "drotrecogin alfa"}
+{"_id": "1215", "text": "glycopyrrolate"}
+{"_id": "1216", "text": "provigil"}
+{"_id": "1217", "text": "prasugrel"}
+{"_id": "1218", "text": "polysaccharide iron complex"}
+{"_id": "1219", "text": "entacapone"}
+{"_id": "1220", "text": "melphalan"}
+{"_id": "1221", "text": "lepirudin"}
+{"_id": "1222", "text": "amylase"}
+{"_id": "1223", "text": "darunavir"}
+{"_id": "1224", "text": "papain"}
+{"_id": "1225", "text": "collagenase"}
+{"_id": "1226", "text": "lactobacillus acidophilus"}
+{"_id": "1227", "text": "demeclocycline"}
+{"_id": "1228", "text": "sodium phosphate"}
+{"_id": "1229", "text": "citric acid"}
+{"_id": "1230", "text": "activated charcoal"}
+{"_id": "1231", "text": "miralax"}
+{"_id": "1232", "text": "coumadin"}
+{"_id": "1233", "text": "dronabinol"}
+{"_id": "1234", "text": "ranexa"}
+{"_id": "1235", "text": "pancrease"}
+{"_id": "1236", "text": "danazol"}
+{"_id": "1237", "text": "pyridoxine"}
+{"_id": "1238", "text": "nitroglycerine"}
+{"_id": "1239", "text": "ativan"}
+{"_id": "1240", "text": "minocycline"}
+{"_id": "1241", "text": "pramoxine"}
+{"_id": "1242", "text": "chlorhexidine"}
+{"_id": "1243", "text": "bismuth subsalicylate"}
+{"_id": "1244", "text": "becaplermin"}
+{"_id": "1245", "text": "emt"}

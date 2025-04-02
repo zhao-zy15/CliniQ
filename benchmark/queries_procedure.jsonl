@@ -1,0 +1,365 @@
+{"_id": "329", "text": "hemodialysis"}
+{"_id": "330", "text": "non-invasive mechanical ventilation"}
+{"_id": "331", "text": "insertion of endotracheal tube"}
+{"_id": "332", "text": "percutaneous abdominal drainage"}
+{"_id": "333", "text": "bronchoscopy through artificial stoma"}
+{"_id": "334", "text": "continuous invasive mechanical ventilation for less than 96 consecutive hours"}
+{"_id": "335", "text": "transfusion of packed cells"}
+{"_id": "336", "text": "enteral infusion of concentrated nutritional substances"}
+{"_id": "337", "text": "continuous invasive mechanical ventilation for 96 consecutive hours or more"}
+{"_id": "338", "text": "(aorto)coronary bypass of one coronary artery"}
+{"_id": "339", "text": "single internal mammary-coronary artery bypass"}
+{"_id": "340", "text": "venous catheterization for renal dialysis"}
+{"_id": "341", "text": "endoscopic control of gastric or duodenal bleeding"}
+{"_id": "342", "text": "implant of pulsation balloon"}
+{"_id": "343", "text": "left heart cardiac catheterization"}
+{"_id": "344", "text": "decortication of lung"}
+{"_id": "345", "text": "resection of vessel with replacement, aorta, abdominal"}
+{"_id": "346", "text": "arteriography of cerebral arteries"}
+{"_id": "347", "text": "insertion or replacement of external ventricular drain [evd]"}
+{"_id": "348", "text": "open reduction of mandibular fracture"}
+{"_id": "349", "text": "closed [percutaneous] [needle] biopsy of brain"}
+{"_id": "350", "text": "parenteral infusion of concentrated nutritional substances"}
+{"_id": "351", "text": "insertion of interbody spinal fusion device"}
+{"_id": "352", "text": "dorsal and dorsolumbar fusion of the posterior column, posterior technique"}
+{"_id": "353", "text": "lumbar and lumbosacral fusion of the anterior column, anterior technique"}
+{"_id": "354", "text": "fusion or refusion of 4-8 vertebrae"}
+{"_id": "355", "text": "atrial cardioversion"}
+{"_id": "356", "text": "spinal tap"}
+{"_id": "357", "text": "closed (percutaneous) [needle] biopsy of liver"}
+{"_id": "358", "text": "esophagogastroduodenoscopy [egd] with closed biopsy"}
+{"_id": "359", "text": "closed [endoscopic] biopsy of large intestine"}
+{"_id": "360", "text": "extracorporeal circulation auxiliary to open heart surgery"}
+{"_id": "361", "text": "injection or infusion of immunoglobulin"}
+{"_id": "362", "text": "reopening of recent laparotomy site"}
+{"_id": "363", "text": "temporary ileostomy"}
+{"_id": "364", "text": "temporary tracheostomy"}
+{"_id": "365", "text": "closed [percutaneous] [needle] biopsy of mediastinum"}
+{"_id": "366", "text": "closed biopsy of skin and subcutaneous tissue"}
+{"_id": "367", "text": "percutaneous hepatic cholangiogram"}
+{"_id": "368", "text": "endoscopic polypectomy of large intestine"}
+{"_id": "369", "text": "amputation through foot"}
+{"_id": "370", "text": "amputation of toe"}
+{"_id": "371", "text": "coronary arteriography using two catheters"}
+{"_id": "372", "text": "combined right and left heart cardiac catheterization"}
+{"_id": "373", "text": "insertion of non-drug-eluting coronary artery stent(s)"}
+{"_id": "374", "text": "percutaneous balloon valvuloplasty"}
+{"_id": "375", "text": "endoscopic insertion of stent (tube) into bile duct"}
+{"_id": "376", "text": "closed [endoscopic] biopsy of bronchus"}
+{"_id": "377", "text": "(aorto)coronary bypass of two coronary arteries"}
+{"_id": "378", "text": "exploratory laparotomy"}
+{"_id": "379", "text": "pericardiocentesis"}
+{"_id": "380", "text": "open reduction of fracture with internal fixation, humerus"}
+{"_id": "381", "text": "interruption of the vena cava"}
+{"_id": "382", "text": "insertion of intercostal catheter for drainage"}
+{"_id": "383", "text": "autologous hematopoietic stem cell transplant without purging"}
+{"_id": "384", "text": "diagnostic ultrasound of heart"}
+{"_id": "385", "text": "thoracentesis"}
+{"_id": "386", "text": "endoscopic excision or destruction of lesion or tissue of stomach"}
+{"_id": "387", "text": "transfusion of platelets"}
+{"_id": "388", "text": "clipping of aneurysm"}
+{"_id": "389", "text": "application of external fixator device, tibia and fibula"}
+{"_id": "390", "text": "injection of larynx"}
+{"_id": "391", "text": "arterial catheterization"}
+{"_id": "392", "text": "replacement of tracheostomy tube"}
+{"_id": "393", "text": "total pancreatectomy"}
+{"_id": "394", "text": "central venous catheter placement with guidance"}
+{"_id": "395", "text": "catheter based invasive electrophysiologic testing"}
+{"_id": "396", "text": "implantation or replacement of automatic cardioverter/defibrillator, total system [aicd]"}
+{"_id": "397", "text": "total splenectomy"}
+{"_id": "398", "text": "partial gastrectomy with anastomosis to jejunum"}
+{"_id": "399", "text": "cholecystectomy"}
+{"_id": "400", "text": "injection or infusion of thrombolytic agent"}
+{"_id": "401", "text": "fiber-optic bronchoscopy"}
+{"_id": "402", "text": "insertion of catheter into spinal canal for infusion of therapeutic or palliative substances"}
+{"_id": "403", "text": "(aorto)coronary bypass of three coronary arteries"}
+{"_id": "404", "text": "dental wiring"}
+{"_id": "405", "text": "bone graft to skull"}
+{"_id": "406", "text": "percutaneous [endoscopic] gastrostomy [peg]"}
+{"_id": "407", "text": "replacement of tube or enterostomy device of small intestine"}
+{"_id": "408", "text": "colonoscopy"}
+{"_id": "409", "text": "annuloplasty"}
+{"_id": "410", "text": "biopsy of bone marrow"}
+{"_id": "411", "text": "resection of vessel with replacement, thoracic vessels"}
+{"_id": "412", "text": "endovascular implantation of graft in thoracic aorta"}
+{"_id": "413", "text": "percutaneous aspiration of liver"}
+{"_id": "414", "text": "bilateral extended simple mastectomy"}
+{"_id": "415", "text": "muscle flap graft to breast"}
+{"_id": "416", "text": "endoscopic excision or destruction of lesion or tissue of esophagus"}
+{"_id": "417", "text": "formation of cranial bone flap"}
+{"_id": "418", "text": "insertion of skull plate"}
+{"_id": "419", "text": "repair of blood vessel with tissue patch graft"}
+{"_id": "420", "text": "suture of laceration of esophagus"}
+{"_id": "421", "text": "alcohol detoxification"}
+{"_id": "422", "text": "open reduction of fracture with internal fixation, femur"}
+{"_id": "423", "text": "coronary arteriography using a single catheter"}
+{"_id": "424", "text": "endoscopic retrograde cholangiopancreatography [ercp]"}
+{"_id": "425", "text": "endovascular embolization or occlusion of vessel(s) of head or neck using bare coils"}
+{"_id": "426", "text": "angiocardiography of left heart structures"}
+{"_id": "427", "text": "revision or relocation of cardiac device pocket"}
+{"_id": "428", "text": "removal of lead(s) [electrode] without replacement"}
+{"_id": "429", "text": "insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)"}
+{"_id": "430", "text": "right heart cardiac catheterization"}
+{"_id": "431", "text": "umbilical vein catheterization"}
+{"_id": "432", "text": "reopening of recent thoracotomy site"}
+{"_id": "433", "text": "insertion of temporary transvenous pacemaker system"}
+{"_id": "434", "text": "injection or infusion of platelet inhibitor"}
+{"_id": "435", "text": "percutaneous nephrostomy without fragmentation"}
+{"_id": "436", "text": "endovascular (total) embolization or occlusion of head and neck vessels"}
+{"_id": "437", "text": "[endoscopic] polypectomy of rectum"}
+{"_id": "438", "text": "pulmonary artery wedge monitoring"}
+{"_id": "439", "text": "suture of laceration of stomach"}
+{"_id": "440", "text": "transplant from live non-related donor"}
+{"_id": "441", "text": "circumcision"}
+{"_id": "442", "text": "replacement of gastrostomy tube"}
+{"_id": "443", "text": "closed reduction of maxillary fracture"}
+{"_id": "444", "text": "closed reduction of mandibular fracture"}
+{"_id": "445", "text": "closed endoscopic biopsy of lung"}
+{"_id": "446", "text": "revision of tracheostomy"}
+{"_id": "447", "text": "transpleural thoracoscopy"}
+{"_id": "448", "text": "endoscopic sphincterotomy and papillotomy"}
+{"_id": "449", "text": "laparoscopic cholecystectomy"}
+{"_id": "450", "text": "endoscopic removal of stone(s) from biliary tract"}
+{"_id": "451", "text": "aortography"}
+{"_id": "452", "text": "replacement of stent (tube) in biliary or pancreatic duct"}
+{"_id": "453", "text": "nonoperative removal of heart assist system"}
+{"_id": "454", "text": "closure of stoma of small intestine"}
+{"_id": "455", "text": "ventricular shunt to extracranial site nec"}
+{"_id": "456", "text": "placement of intracerebral catheter(s) via burr hole(s)"}
+{"_id": "457", "text": "ventricular shunt to abdominal cavity and organs"}
+{"_id": "458", "text": "injection or infusion of oxazolidinone class of antibiotics"}
+{"_id": "459", "text": "closed [percutaneous] [needle] biopsy of intra-abdominal mass"}
+{"_id": "460", "text": "infusion of vasopressor agent"}
+{"_id": "461", "text": "repair of blood vessel with synthetic patch graft"}
+{"_id": "462", "text": "open heart valvuloplasty of mitral valve without replacement"}
+{"_id": "463", "text": "open chest cardiac massage"}
+{"_id": "464", "text": "peritoneal lavage"}
+{"_id": "465", "text": "insertion of drug-eluting coronary artery stent(s)"}
+{"_id": "466", "text": "simple suture of dura mater of brain"}
+{"_id": "467", "text": "elevation of skull fracture fragments"}
+{"_id": "468", "text": "radical pancreaticoduodenectomy"}
+{"_id": "469", "text": "aorta-iliac-femoral bypass"}
+{"_id": "470", "text": "percutaneous biopsy of gallbladder or bile ducts"}
+{"_id": "471", "text": "open heart valvuloplasty of tricuspid valve without replacement"}
+{"_id": "472", "text": "closure of fistula of small intestine, except duodenum"}
+{"_id": "473", "text": "excision or destruction of lesion or tissue of abdominal wall or umbilicus"}
+{"_id": "474", "text": "closed [percutaneous] [needle] biopsy of thyroid gland"}
+{"_id": "475", "text": "exteriorization of small intestine"}
+{"_id": "476", "text": "(aorto)coronary bypass of four or more coronary arteries"}
+{"_id": "477", "text": "debridement of open fracture site, humerus"}
+{"_id": "478", "text": "revision of stoma of small intestine"}
+{"_id": "479", "text": "biopsy of lymphatic structure"}
+{"_id": "480", "text": "suture of laceration of small intestine, except duodenum"}
+{"_id": "481", "text": "thoracoscopic decortication of lung"}
+{"_id": "482", "text": "transplant from cadaver"}
+{"_id": "483", "text": "incision of vessel, lower limb arteries"}
+{"_id": "484", "text": "resection of vessel with replacement, abdominal arteries"}
+{"_id": "485", "text": "open biopsy of lung"}
+{"_id": "486", "text": "advancement of pedicle graft"}
+{"_id": "487", "text": "graft of muscle or fascia"}
+{"_id": "488", "text": "local excision of lesion or tissue of bone, scapula, clavicle, and thorax [ribs and sternum]"}
+{"_id": "489", "text": "excision, destruction, or exclusion of left atrial appendage (laa)"}
+{"_id": "490", "text": "atlas-axis spinal fusion"}
+{"_id": "491", "text": "fusion or refusion of 2-3 vertebrae"}
+{"_id": "492", "text": "injection of antibiotic"}
+{"_id": "493", "text": "electroencephalogram"}
+{"_id": "494", "text": "intra-abdominal venous shunt"}
+{"_id": "495", "text": "arteriography of renal arteries"}
+{"_id": "496", "text": "angiocardiography of venae cavae"}
+{"_id": "497", "text": "radical cystectomy"}
+{"_id": "498", "text": "regional lymph node excision"}
+{"_id": "499", "text": "therapeutic leukopheresis"}
+{"_id": "500", "text": "trocar cholecystostomy"}
+{"_id": "501", "text": "debridement of open fracture site, tibia and fibula"}
+{"_id": "502", "text": "intraoperative cardiac pacemaker"}
+{"_id": "503", "text": "excision of axillary lymph node"}
+{"_id": "504", "text": "reconstruction of urinary bladder"}
+{"_id": "505", "text": "ureteral catheterization"}
+{"_id": "506", "text": "isolation of segment of small intestine"}
+{"_id": "507", "text": "biopsy of heart"}
+{"_id": "508", "text": "aorta-subclavian-carotid bypass"}
+{"_id": "509", "text": "biopsy of chest wall"}
+{"_id": "510", "text": "cardiac mapping"}
+{"_id": "511", "text": "excisional debridement of wound, infection, or burn"}
+{"_id": "512", "text": "revision of total knee replacement, tibial insert (liner)"}
+{"_id": "513", "text": "incision of vessel, abdominal veins"}
+{"_id": "514", "text": "pharyngeal diverticulectomy"}
+{"_id": "515", "text": "pericardiectomy"}
+{"_id": "516", "text": "nephrostomy"}
+{"_id": "517", "text": "phlebography of the portal venous system using contrast material"}
+{"_id": "518", "text": "repair of colovaginal fistula"}
+{"_id": "519", "text": "repair of vertebral fracture"}
+{"_id": "520", "text": "excision or destruction of lesion of spinal cord or spinal meninges"}
+{"_id": "521", "text": "open biopsy of soft tissue"}
+{"_id": "522", "text": "transfusion of coagulation factors"}
+{"_id": "523", "text": "replacement of automatic cardioverter/defibrillator pulse generator only"}
+{"_id": "524", "text": "reopening of wound of thyroid field"}
+{"_id": "525", "text": "removal of ureterostomy tube and ureteral catheter"}
+{"_id": "526", "text": "partial esophagectomy"}
+{"_id": "527", "text": "partial gastrectomy with anastomosis to esophagus"}
+{"_id": "528", "text": "closed [endoscopic] biopsy of rectum"}
+{"_id": "529", "text": "permanent colostomy"}
+{"_id": "530", "text": "lumbar and lumbosacral fusion of the anterior column, posterior technique"}
+{"_id": "531", "text": "gastric gavage"}
+{"_id": "532", "text": "anastomosis of hepatic duct to gastrointestinal tract"}
+{"_id": "533", "text": "suture of duodenal ulcer site"}
+{"_id": "534", "text": "unilateral orchiectomy"}
+{"_id": "535", "text": "exteriorization of large intestine"}
+{"_id": "536", "text": "ureteroscopy"}
+{"_id": "537", "text": "retrograde pyelogram"}
+{"_id": "538", "text": "partial hip replacement"}
+{"_id": "539", "text": "local excision or destruction of lesion of penis"}
+{"_id": "540", "text": "perioperative autologous transfusion of whole blood or blood components"}
+{"_id": "541", "text": "suture of laceration of large intestine"}
+{"_id": "542", "text": "percutaneous aspiration of gallbladder"}
+{"_id": "543", "text": "open biopsy of liver"}
+{"_id": "544", "text": "closed reduction of fracture with internal fixation, femur"}
+{"_id": "545", "text": "excision or destruction of lesion or tissue of scrotum"}
+{"_id": "546", "text": "radical laryngectomy"}
+{"_id": "547", "text": "plastic operation on pharynx"}
+{"_id": "548", "text": "insertion of rectal tube"}
+{"_id": "549", "text": "low cervical cesarean section"}
+{"_id": "550", "text": "closed [aspiration] [needle] [percutaneous] biopsy of pancreas"}
+{"_id": "551", "text": "total esophagectomy"}
+{"_id": "552", "text": "incision with removal of foreign body or device from skin and subcutaneous tissue"}
+{"_id": "553", "text": "nonexcisional debridement of wound, infection or burn"}
+{"_id": "554", "text": "initial insertion of dual-chamber device"}
+{"_id": "555", "text": "initial insertion of transvenous leads [electrodes] into atrium and ventricle"}
+{"_id": "556", "text": "endoscopic excision or destruction of lesion of biliary ducts or sphincter of oddi"}
+{"_id": "557", "text": "suture of vein"}
+{"_id": "558", "text": "control of epistaxis by anterior nasal packing"}
+{"_id": "559", "text": "closed [percutaneous] [needle] biopsy of kidney"}
+{"_id": "560", "text": "application of splint"}
+{"_id": "561", "text": "replacement of nephrostomy tube"}
+{"_id": "562", "text": "open reduction of fracture with internal fixation, tibia and fibula"}
+{"_id": "563", "text": "open reduction of fracture with internal fixation, carpals and metacarpals"}
+{"_id": "564", "text": "open reduction of fracture with internal fixation, radius and ulna"}
+{"_id": "565", "text": "dorsal and dorsolumbar fusion of the anterior column, anterior technique"}
+{"_id": "566", "text": "application of external fixator device, humerus"}
+{"_id": "567", "text": "implantation of cardiac resynchronization defibrillator, total system [crt-d]"}
+{"_id": "568", "text": "attachment of pedicle or flap graft to hand"}
+{"_id": "569", "text": "forearm, wrist, or hand reattachment"}
+{"_id": "570", "text": "excision of intervertebral disc"}
+{"_id": "571", "text": "removal of thoracotomy tube or pleural cavity drain"}
+{"_id": "572", "text": "closed reduction of fracture without internal fixation, radius and ulna"}
+{"_id": "573", "text": "excision or destruction of lesion or tissue of mediastinum"}
+{"_id": "574", "text": "unilateral adrenalectomy"}
+{"_id": "575", "text": "application of external fixator device, femur"}
+{"_id": "576", "text": "incision of cerebral meninges"}
+{"_id": "577", "text": "incision of abdominal wall"}
+{"_id": "578", "text": "removal of implanted devices from bone, femur"}
+{"_id": "579", "text": "flexible sigmoidoscopy"}
+{"_id": "580", "text": "linear repair of laceration of eyelid or eyebrow"}
+{"_id": "581", "text": "computerized axial tomography of abdomen"}
+{"_id": "582", "text": "removal of impacted feces"}
+{"_id": "583", "text": "biopsy of bone, tibia and fibula"}
+{"_id": "584", "text": "debridement of open fracture site, carpals and metacarpals"}
+{"_id": "585", "text": "excision or destruction of peritoneal tissue"}
+{"_id": "586", "text": "endoscopic excision or destruction of lesion of duodenum"}
+{"_id": "587", "text": "suture of laceration of lip"}
+{"_id": "588", "text": "closed [percutaneous] [needle] biopsy of lung"}
+{"_id": "589", "text": "sinogram of abdominal wall"}
+{"_id": "590", "text": "suture of artery"}
+{"_id": "591", "text": "multiple segmental resection of small intestine"}
+{"_id": "592", "text": "insertion of (naso-)intestinal tube"}
+{"_id": "593", "text": "closed reduction of fracture without internal fixation, femur"}
+{"_id": "594", "text": "removal of intraluminal foreign body from trachea and bronchus without incision"}
+{"_id": "595", "text": "lobotomy and tractotomy"}
+{"_id": "596", "text": "suture of laceration of external ear"}
+{"_id": "597", "text": "intracranial pressure monitoring"}
+{"_id": "598", "text": "gastric lavage"}
+{"_id": "599", "text": "arthrocentesis"}
+{"_id": "600", "text": "insertion of totally implantable vascular access device [vad]"}
+{"_id": "601", "text": "aspiration of skin and subcutaneous tissue"}
+{"_id": "602", "text": "laparoscopy"}
+{"_id": "603", "text": "closure of laceration of lung"}
+{"_id": "604", "text": "injection or infusion of biological response modifier [brm] as an antineoplastic agent"}
+{"_id": "605", "text": "intraoperative cholangiogram"}
+{"_id": "606", "text": "lobectomy of liver"}
+{"_id": "607", "text": "removal of intraluminal foreign body from stomach and small intestine without incision"}
+{"_id": "608", "text": "angiocardiography of right heart structures"}
+{"_id": "609", "text": "vaginal reconstruction"}
+{"_id": "610", "text": "revision of cutaneous uretero-ileostomy"}
+{"_id": "611", "text": "formation of cutaneous uretero-ileostomy"}
+{"_id": "612", "text": "rigid proctosigmoidoscopy"}
+{"_id": "613", "text": "pelvic evisceration"}
+{"_id": "614", "text": "partial nephrectomy"}
+{"_id": "615", "text": "control of epistaxis by cauterization (and packing)"}
+{"_id": "616", "text": "debridement of open fracture site, phalanges of hand"}
+{"_id": "617", "text": "interphalangeal fusion"}
+{"_id": "618", "text": "bone graft, radius and ulna"}
+{"_id": "619", "text": "open reduction of fracture with internal fixation, phalanges of hand"}
+{"_id": "620", "text": "insertion of recombinant bone morphogenetic protein"}
+{"_id": "621", "text": "insertion or replacement of skull tongs or halo traction device"}
+{"_id": "622", "text": "suture of corneal laceration"}
+{"_id": "623", "text": "application of hybrid external fixator device"}
+{"_id": "624", "text": "full-thickness skin graft to hand"}
+{"_id": "625", "text": "closed reduction of dislocation of elbow"}
+{"_id": "626", "text": "injection of steroid"}
+{"_id": "627", "text": "insertion of synthetic implant in facial bone"}
+{"_id": "628", "text": "open reduction of nasal fracture"}
+{"_id": "629", "text": "suture of laceration of sclera"}
+{"_id": "630", "text": "open total intra-abdominal colectomy"}
+{"_id": "631", "text": "suture of laceration of tongue"}
+{"_id": "632", "text": "nephroureterectomy"}
+{"_id": "633", "text": "control of epistaxis by posterior (and anterior) packing"}
+{"_id": "634", "text": "high-dose infusion interleukin-2 [il-2]"}
+{"_id": "635", "text": "drainage of appendiceal abscess"}
+{"_id": "636", "text": "injection or infusion of nesiritide"}
+{"_id": "637", "text": "open reduction of dislocation of knee"}
+{"_id": "638", "text": "therapeutic plasmapheresis"}
+{"_id": "639", "text": "transjugular liver biopsy"}
+{"_id": "640", "text": "auxiliary liver transplant"}
+{"_id": "641", "text": "open biopsy of kidney"}
+{"_id": "642", "text": "division of joint capsule, ligament, or cartilage, knee"}
+{"_id": "643", "text": "infusion of drotrecogin alfa (activated)"}
+{"_id": "644", "text": "high gastric bypass"}
+{"_id": "645", "text": "total hip replacement"}
+{"_id": "646", "text": "reclosure of postoperative disruption of abdominal wall"}
+{"_id": "647", "text": "artificial pacemaker rate check"}
+{"_id": "648", "text": "closed reduction of fracture without internal fixation, tibia and fibula"}
+{"_id": "649", "text": "closed reduction of fracture without internal fixation, tarsals and metatarsals"}
+{"_id": "650", "text": "ureteroneocystostomy"}
+{"_id": "651", "text": "incision of vessel, lower limb veins"}
+{"_id": "652", "text": "open reduction of malar and zygomatic fracture"}
+{"_id": "653", "text": "endoscopic excision or destruction of lesion or tissue of bronchus"}
+{"_id": "654", "text": "delayed closure of granulating abdominal wound"}
+{"_id": "655", "text": "fasciotomy"}
+{"_id": "656", "text": "amputation above knee"}
+{"_id": "657", "text": "repair of atrial septal defect with prosthesis, open technique"}
+{"_id": "658", "text": "closed reduction of fracture without internal fixation, phalanges of hand"}
+{"_id": "659", "text": "closed reduction of nasal fracture"}
+{"_id": "660", "text": "open mediastinal biopsy"}
+{"_id": "661", "text": "closed [endoscopic] biopsy of small intestine"}
+{"_id": "662", "text": "lumbar and lumbosacral fusion of the posterior column, posterior technique"}
+{"_id": "663", "text": "double internal mammary-coronary artery bypass"}
+{"_id": "664", "text": "local excision or destruction of lesion or tissue of trachea"}
+{"_id": "665", "text": "arteriography of pulmonary arteries"}
+{"_id": "666", "text": "radical vulvectomy"}
+{"_id": "667", "text": "radical groin dissection"}
+{"_id": "668", "text": "urinary diversion to intestine"}
+{"_id": "669", "text": "radical excision of periaortic lymph nodes"}
+{"_id": "670", "text": "lobectomy of brain"}
+{"_id": "671", "text": "procedure on single vessel"}
+{"_id": "672", "text": "insertion of indwelling urinary catheter"}
+{"_id": "673", "text": "open heart valvuloplasty of aortic valve without replacement"}
+{"_id": "674", "text": "percutaneous transluminal coronary angioplasty [ptca]"}
+{"_id": "675", "text": "insertion of one vascular stent"}
+{"_id": "676", "text": "endarterectomy, lower limb arteries"}
+{"_id": "677", "text": "percutaneous insertion of carotid artery stent(s)"}
+{"_id": "678", "text": "anterior resection of rectum with synchronous colostomy"}
+{"_id": "679", "text": "insertion of two vascular stents"}
+{"_id": "680", "text": "endovascular removal of obstruction from head and neck vessel(s)"}
+{"_id": "681", "text": "laparoscopic gastric restrictive procedure"}
+{"_id": "682", "text": "procedure on vessel bifurcation"}
+{"_id": "683", "text": "percutaneous angioplasty of extracranial vessel(s)"}
+{"_id": "684", "text": "procedure on two vessels"}
+{"_id": "685", "text": "insertion of three vascular stents"}
+{"_id": "686", "text": "immunization for allergy"}
+{"_id": "687", "text": "excision of lesion or tissue of cerebral meninges"}
+{"_id": "688", "text": "excision of lesion of muscle"}
+{"_id": "689", "text": "intravascular pressure measurement of coronary arteries"}
+{"_id": "690", "text": "laparoscopic robotic assisted procedure"}
+{"_id": "691", "text": "application of external fixator device, radius and ulna"}
+{"_id": "692", "text": "insertion of four or more vascular stents"}
+{"_id": "693", "text": "procedure on four or more vessels"}
