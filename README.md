@@ -1,4 +1,5 @@
 # CliniQ: A Multi-faceted Benchmark for Electronic Health Record Retrieval with Semantic Match Assessment
+![teaser_00](https://github.com/user-attachments/assets/7b21a843-033f-4361-9b8f-d7ed3b59de49)
 
 CliniQ is a the first publicly avaiable benchmark for Electronic Health Record (EHR) retrieval.
 The benchmark is built on 1,000 discharge summaries from MIMIC-III, split into 16,550 chunks of 100-word length.
