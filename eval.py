@@ -120,7 +120,7 @@ elif "BMRetriever" in model_path:
             outputs = model(**batch_dict)
             embeddings = last_token_pool(outputs.last_hidden_state, batch_dict['attention_mask'])
         return embeddings.detach().cpu().numpy()
-elif "NV-Embed" in model_path:
+elif "NV-Embed" in model_path or "DR.EHR-large" in model_path:
     def embed(texts, query = True):
         if query:
             prefix = "Instruct: Given the medical entity, retrieve relevant paragraphs of patients\' medical records\nQuery: "
