@@ -123,7 +123,7 @@ elif "BMRetriever" in model_path:
 elif "NV-Embed" in model_path or "DR.EHR-large" in model_path:
     def embed(texts, query = True):
         if query:
-            prefix = "Instruct: Given the medical entity, retrieve relevant paragraphs of patients\' medical records\nQuery: "
+            prefix = f"Instruct: Given the medical entity, retrieve relevant paragraphs of patients\' medical records\nQuery: "
         else:
             prefix = ''
         embeddings = None
@@ -157,7 +157,25 @@ elif "NV-Embed" in model_path or "DR.EHR-large" in model_path:
         else:
             i = -1
         if len(texts) % batch_size != 0:
-            output = model.encode(texts[(i+1) * batch_size:], instruction = prefix, max_length = max_length)
+            batch_dict = input_transform_func(tokenizer,
+                                            {"input_texts": [prompt for prompt in texts[(i+1) * batch_size:]]},
+                                            always_add_eos=True,
+                                            max_length=max_length,
+                                            instruction=prefix)
+            batch_dict = {k : v.to(device) for k, v in batch_dict.items()}
+            attention_mask = batch_dict['attention_mask'].clone()
+            if prefix:
+                instruction_lens = len(tokenizer.tokenize(prefix))
+                attention_mask[:, :instruction_lens] = 0
+            features = {
+                'input_ids': batch_dict['input_ids'].long(),
+                'attention_mask': batch_dict['attention_mask'],
+                'pool_mask': attention_mask,
+            }
+
+            with torch.no_grad():
+                output = model(**features)["sentence_embeddings"].squeeze(1)
+            # output = model.encode(texts[(i+1) * batch_size:], instruction = prefix, max_length = max_length)
             output = output.detach().cpu().numpy()
             if embeddings is not None:
                 embeddings = np.concatenate((embeddings, output), axis=0)
@@ -256,7 +274,7 @@ if "Qwen" in model_path:
     corpus_embeds = np.vstack([embed([text]) for text in tqdm(corpus)])
 elif "BMRetriever" in model_path:
     corpus_embeds = np.vstack([embed(["Represent this passage\npassage: " + text]) for text in tqdm(corpus)])
-elif "NV-Embed" in model_path:
+elif "NV-Embed" in model_path or "DR.EHR-large" in model_path:
     corpus_embeds = embed(corpus, query = False)
 else:
     corpus_embeds = embed(corpus)
@@ -270,6 +288,7 @@ inner_metrics = {"string": [[], [], []],
                 "implication": [[], [], []], 
                 "overall": [[], [], []]}
 inter_metrics = [[], [], []]
+type_map = {"disease": "diagnosis", "procedure": "clinical procedure", "drug": "prescription"}
 for split in ['disease', 'procedure', 'drug']:
     with open(f"benchmark/queries_{split}.jsonl") as f:
         queries = [json.loads(l) for l in f.readlines()]
