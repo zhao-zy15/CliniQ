@@ -10,8 +10,6 @@ As for relevance judgments, we provide over 77k chunk-level relevance judgments 
 CliniQ supports two real-world retrieval settings: (1) Single-Patient Retrieval (finding relevant chunks within a note) and (2) Multi-Patient Retrieval (searching across multiple patients).
 More importantly, CliniQ is the first benchmark assessing different types of semantic match capacities, including synonyms, hyponyms, abbreviations, and implication matches.
 
-For more details, please refer to [our paper](https://arxiv.org/abs/2502.06252).
-
 ## Dataset Usage
 
 ### Dataset Access and Construction
@@ -38,22 +36,3 @@ To evaluate a new model, choose appropriate embedding function or write your own
 Pay extra attention to whether the model encodes queries and documents differently.
 
 The output of this script includes detailed metrics of different query types and semantic match types, along with a overall score as reported in our paper.
-
-## Leaderboard
-We currently do not provide a leaderboard due to the multi-faceted nature of our benchmark.
-However, we are more than glad to hear from any participants and share the latest news regarding the benchmark with any one interested in this area.
-Please feel free to email at zhengyun21@mails.tsinghua.edu.cn
-
-
-## Citation
-```
-@misc{zhao2025cliniqmultifacetedbenchmarkelectronic,
-      title={CliniQ: A Multi-faceted Benchmark for Electronic Health Record Retrieval with Semantic Match Assessment}, 
-      author={Zhengyun Zhao and Hongyi Yuan and Jingjing Liu and Haichao Chen and Huaiyuan Ying and Songchi Zhou and Yue Zhong and Sheng Yu},
-      year={2025},
-      eprint={2502.06252},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2502.06252}, 
-}
-```
